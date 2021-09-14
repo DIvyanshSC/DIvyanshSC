@@ -14,7 +14,7 @@ or <a href="mailto:chaudhary.divyansh5@gmail.com"><b>email</b></a> me
 
 <h2> About Me </h2>
 
-<img width="25%" align="right" alt="Github" src="https://github.com/DIvyanshSC/Portfolio-Website/blob/main/public/FrontImage.png" />
+<img width="25%" align="right" alt="Github" src="https://media.giphy.com/media/Wm9XlKG2xIMiVcH4CP/giphy.gif?cid=ecf05e47ameszkh553twpal73y8rk0yqx9ggit7ucpz6dt80&rid=giphy.gif&ct=g" />
 
 
 - 🔭 I’m currently working on My Portfolio Project and Alley(a 3rd person Game)
@@ -30,7 +30,7 @@ or <a href="mailto:chaudhary.divyansh5@gmail.com"><b>email</b></a> me
 
 
 ---
-
+<div align = "center">
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div>
   <a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
@@ -41,12 +41,12 @@ or <a href="mailto:chaudhary.divyansh5@gmail.com"><b>email</b></a> me
   <a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
   <a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
   <a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
-  <a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
   <a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
   <a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
   
 
  </div>
+  </div>
 
 
 </br>
@@ -58,7 +58,7 @@ or <a href="mailto:chaudhary.divyansh5@gmail.com"><b>email</b></a> me
  
 [![Divyansh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DivyanshSC&theme=synthwave)](https://github.com/DivyanshSC/github-readme-stats)
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=synthwave) | ![Divyansh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DivyanshSC&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=synthwave) | ![Divyansh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DivyanshSC&theme=synthwave) |
 | --- | --- |
 | ![Jokes Card](https://readme-jokes.vercel.app/api?theme=synthwave) |
 
