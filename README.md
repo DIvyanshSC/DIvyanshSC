@@ -11,6 +11,7 @@ Please feel free to contact me in case of any queries <a href="https://github.co
 or <a href="mailto:chaudhary.divyansh5@gmail.com"><b>email</b></a> me
 
 </div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <h2> About Me </h2>
 
@@ -28,8 +29,9 @@ or <a href="mailto:chaudhary.divyansh5@gmail.com"><b>email</b></a> me
 - 👀 Video Games really interest me, so if you want to talk about them, we can be good friends <a href="https://twitter.com/Div_Says"><b>here</b></a>.
 
 
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+  
+  
 <div align = "center">
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div>
@@ -47,28 +49,50 @@ or <a href="mailto:chaudhary.divyansh5@gmail.com"><b>email</b></a> me
 
  </div>
   </div>
-
+  </br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 </br>
 </br>
-</br>
-</br>
 
 
- 
-[![Divyansh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DivyanshSC&theme=react-dark&line=FF1493&color=FF1493)](https://github.com/DivyanshSC/github-readme-stats)
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=synthwave) | ![Divyansh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DivyanshSC&theme=synthwave) |
+
+[![Divyansh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DivyanshSC&theme=react-dark&line=FF1493&color=ff389c)](https://github.com/DivyanshSC/github-readme-stats)
+<!--
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshSC&theme=synthwave) | ![Divyansh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DivyanshSC&theme=synthwave) |
 | --- | --- |
 
- ![Jokes Card](https://readme-jokes.vercel.app/api?theme=synthwave) 
+ ![Jokes Card](https://readme-jokes.vercel.app/api?theme=synthwave&hide_border=true) -->
+ 
+ 
+
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DivyanshSC&theme=synthwave&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Divyansh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshSC&theme=dark&hide_border=true&color=ff389c" />
 
 
+  
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DivyanshSC&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+  
+  </td>
+  
+</tr>
+
+</table>
 
 
 </br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 
 <div align = "center">
