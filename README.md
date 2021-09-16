@@ -57,7 +57,6 @@ or <a href="mailto:chaudhary.divyansh5@gmail.com"><b>email</b></a> me
 
 
 
-
 [![Divyansh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DivyanshSC&theme=react-dark&line=FF1493&color=ff389c)](https://github.com/DivyanshSC/github-readme-stats)
 <!--
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshSC&theme=synthwave) | ![Divyansh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DivyanshSC&theme=synthwave) |
