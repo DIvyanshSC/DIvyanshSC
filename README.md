@@ -75,7 +75,6 @@ or <a href="mailto:chaudhary.divyansh5@gmail.com"><b>email</b></a> me
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Divyansh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshSC&theme=dark&hide_border=true&color=ff389c" />
 
 
-  
 </td>
 
 <td width="50%" align="center">
