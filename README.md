@@ -20,7 +20,9 @@ or <a href="mailto:chaudhary.divyansh5@gmail.com"><b>email</b></a> me
 
 - 🔭 I’m currently working on My Portfolio Project and Alley(a 3rd person Game)
 
-- 🌱 I’m currently learning OpenGL, .net core Web API 
+- 🌱 I’m currently learning OpenGL, .net core Web API
+  
+- 📫 I've worked on Data Structures & Algorithms in Java programming language. 
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles, game journals. Contact me on <a href="https://twitter.com/Div_Says"><b>Twitter</b></a>
 
