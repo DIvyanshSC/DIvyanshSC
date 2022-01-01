@@ -7,7 +7,7 @@
   
 
 Its great you checked my Github profile. <br>
-Please feel free to contact me in case of any queries <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a> <br>
+Please feel free to contact me in case of any queries <a href="https://www.linkedin.com/in/divyansh56"><b>here</b></a> <br>
 or <a href="mailto:chaudhary.divyansh5@gmail.com"><b>email</b></a> me
 
 </div>
@@ -59,7 +59,7 @@ or <a href="mailto:chaudhary.divyansh5@gmail.com"><b>email</b></a> me
 
 
 
-[![Divyansh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DivyanshSC&theme=react-dark&line=FF1493&color=ff389c)](https://github.com/DivyanshSC/github-readme-stats)
+[![Divyansh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=div-devs&theme=react-dark&line=FF1493&color=ff389c)](https://github.com/div-devs/github-readme-stats)
 <!--
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshSC&theme=synthwave) | ![Divyansh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DivyanshSC&theme=synthwave) |
 | --- | --- |
@@ -72,16 +72,16 @@ or <a href="mailto:chaudhary.divyansh5@gmail.com"><b>email</b></a> me
 <tr border="0">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DivyanshSC&theme=synthwave&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=div-devs&theme=synthwave&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Divyansh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshSC&theme=dark&hide_border=true&color=ff389c" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Divyansh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=div-devs&theme=dark&hide_border=true&color=ff389c" />
 
 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DivyanshSC&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=div-devs&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
   
   </td>
   
